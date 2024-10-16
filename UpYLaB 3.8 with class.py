@@ -31,6 +31,7 @@ class Volume:
 
 
 vol = Volume()
+
 figures = {
     'T': vol.T,
     'C': vol.C,
